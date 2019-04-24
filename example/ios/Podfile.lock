@@ -1,0 +1,29 @@
+PODS:
+  - CryptoSwift (0.13.1)
+  - Flutter (1.0.0)
+  - icipher (0.0.1):
+    - CryptoSwift (~> 0.13.1)
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - icipher (from `.symlinks/plugins/icipher/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CryptoSwift
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  icipher:
+    :path: ".symlinks/plugins/icipher/ios"
+
+SPEC CHECKSUMS:
+  CryptoSwift: ff68c35a53e03177d31aaa2c1e8b3e010aeed6cb
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  icipher: cbe34f6b7f328df4c55bbdcacda4bbbd7ead6344
+
+PODFILE CHECKSUM: ebd43b443038e611b86ede96e613bd6033c49497
+
+COCOAPODS: 1.6.1
